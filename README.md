@@ -1,4 +1,4 @@
-# demo (demo)
+# 此项目为在quasar项目中集成vuex插件教程demo，教程地址[link](https://blog.csdn.net/river_pz/article/details/106525209).
 
 demo
 
